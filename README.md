@@ -1,21 +1,18 @@
-# NexusAuth-ZT IAM Project
+# NexusAuth IAM Project
 
-This project demonstrates a centralized Identity and Access Management system.
+## Overview
+NexusAuth IAM is a simple Identity and Access Management system project
+demonstrating user authentication and access control.
 
-Main Features
-• Single Sign-On (SSO)
-• Multi-Factor Authentication (MFA)
-• Role-Based Access Control (RBAC)
+## Features
+- User Login Authentication
+- Access Control
+- Basic IAM Structure
 
-Technology Used
-Keycloak Identity Provider
-OIDC Authentication
-JWT Tokens
+## Files
+main.py – Main application  
+auth.py – Authentication logic  
+config.py – Configuration settings  
 
-System Flow
-User → Identity Provider → Application Access
-
-Roles Implemented
-Admin
-Developer
-Viewer
+## Author
+Nirali Rathod
