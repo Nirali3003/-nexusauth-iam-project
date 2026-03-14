@@ -1,0 +1,7 @@
+# Configuration Settings
+
+APP_NAME = "NexusAuth IAM"
+VERSION = "1.0"
+
+MAX_LOGIN_ATTEMPTS = 3
+SESSION_TIMEOUT = 300
